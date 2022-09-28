@@ -1,1 +1,1 @@
-https://naserparvez.github.io/burger-house.projectttt/
+https://naserparvez.github.io/burger-house/
